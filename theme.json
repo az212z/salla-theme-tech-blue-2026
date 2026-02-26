@@ -1,9 +1,9 @@
 {
-  "name": "Tech Blue",
-  "slug": "salla-theme-tech-blue-2026",
-  "version": "1.0.0",
+  "name": "Tech Blue 2026",
+  "slug": "tech-blue-2026",
+  "version": "1.0.1",
   "author": "Nadir",
-  "description": "ثيم تقني احترافي للإلكترونيات",
+  "description": "Professional Salla theme: Tech Blue 2026",
   "rtl": true,
   "entry": "templates/home.html",
   "assets": {

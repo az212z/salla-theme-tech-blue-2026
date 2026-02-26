@@ -1,13 +1,14 @@
 {
   "name": {
-    "ar": "Tech Blue",
-    "en": "Tech Blue"
+    "ar": "ثيم Tech Blue 2026",
+    "en": "Tech Blue 2026 Theme"
   },
   "repository": "https://github.com/az212z/salla-theme-tech-blue-2026",
   "author_email": "alialamer1418asd@gmail.com",
+  "support_url": "https://github.com/az212z/salla-theme-tech-blue-2026/issues",
   "description": {
-    "ar": "ثيم تقني احترافي للإلكترونيات",
-    "en": "ثيم تقني احترافي للإلكترونيات"
+    "ar": "ثيم احترافي لمتجر سلة: Tech Blue 2026",
+    "en": "Professional Salla theme: Tech Blue 2026"
   },
   "features": [
     "fonts",
