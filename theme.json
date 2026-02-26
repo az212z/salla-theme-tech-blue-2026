@@ -1,0 +1,17 @@
+{
+  "name": "Tech Blue",
+  "slug": "salla-theme-tech-blue-2026",
+  "version": "1.0.0",
+  "author": "Nadir",
+  "description": "ثيم تقني احترافي للإلكترونيات",
+  "rtl": true,
+  "entry": "templates/home.html",
+  "assets": {
+    "css": [
+      "assets/css/style.css"
+    ],
+    "js": [
+      "assets/js/app.js"
+    ]
+  }
+}

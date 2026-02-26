@@ -1,0 +1,20 @@
+{
+  "name": {
+    "ar": "Tech Blue",
+    "en": "Tech Blue"
+  },
+  "repository": "https://github.com/az212z/salla-theme-tech-blue-2026",
+  "author_email": "alialamer1418asd@gmail.com",
+  "description": {
+    "ar": "ثيم تقني احترافي للإلكترونيات",
+    "en": "ثيم تقني احترافي للإلكترونيات"
+  },
+  "features": [
+    "fonts",
+    "color",
+    "filters",
+    "breadcrumb"
+  ],
+  "settings": [],
+  "components": []
+}

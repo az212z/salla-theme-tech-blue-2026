@@ -1,0 +1,11 @@
+{
+  "name": "salla-theme-tech-blue-2026",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "development": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
